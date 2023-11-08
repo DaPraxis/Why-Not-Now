@@ -1,0 +1,6 @@
+[submodule "UE4-Driving-Simulation"]
+	path = UE4-Driving-Simulation
+	url = https://github.com/DaPraxis/UE4-Driving-Simulation.git
+[submodule "Video-Interface-Discrete"]
+	path = Video-Interface-Discrete
+	url = https://github.com/DaPraxis/Video-Interface-Discrete.git
